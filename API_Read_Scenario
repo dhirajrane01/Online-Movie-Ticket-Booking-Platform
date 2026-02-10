@@ -1,0 +1,6 @@
+/* READ Scenario (Implemented)
+Browse theatres running a selected movie in a city on a date*/
+
+
+GET /api/v1/movies/{movieId}/shows?city=Mumbai&date=2026-02-15
+

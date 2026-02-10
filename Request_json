@@ -1,0 +1,8 @@
+/* WRITE Scenario (Implemented)
+Book movie tickets (seat selection)*/
+
+{
+  "userId": 10,
+  "showId": 200,
+  "seatIds": ["A1","A2","A3"]
+}

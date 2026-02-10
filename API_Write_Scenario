@@ -1,0 +1,4 @@
+/*WRITE Scenario (Implemented)
+Book movie tickets (seat selection)*/
+
+POST /api/v1/bookings
